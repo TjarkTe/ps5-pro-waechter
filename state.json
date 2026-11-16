@@ -1,11 +1,11 @@
 {
   "MediaMarkt": {
     "status": "available",
-    "failed_runs": 0
+    "failed_runs": 1
   },
   "Saturn": {
     "status": "available",
-    "failed_runs": 0
+    "failed_runs": 1
   },
   "PlayStation Direct": {
     "status": "unavailable",
